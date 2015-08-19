@@ -1,3 +1,1 @@
 This is the beginning of collaborative git.
-
-This is my first change.
